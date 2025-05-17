@@ -33,6 +33,17 @@ If you want to run the joint model, run the command blow, since the parameters o
 python run.py 
 ```
 
+The catalog of downloaded models is as follows：
+
+  ```shell
+  └─cache_bert_large
+    ├─config.json
+    ├─pytorch_model.bin
+    ├─tokenizer_config.json
+    ├─tokenizer.json
+    ├─vocab.txt
+  ```
+
 And the result are replaced in out/ 
 
 ## Citation
@@ -42,7 +53,7 @@ If the code is used in your research, please star our repo and cite our paper as
 ```shell
 @inproceedings{chen2024modeling,
   title={FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning  for Targeted Sentiment Analysis},
-  author={Chen, Wei and zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, fuzhen},
+  author={Chen, Wei and Zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, fuzhen},
   booktitle={IJCAI},
   year={2025}
 }
