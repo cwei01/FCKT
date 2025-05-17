@@ -35,5 +35,18 @@ python run.py
 
 And the result are replaced in out/ 
 
+## Citation
+
+If the code is used in your research, please star our repo and cite our paper as follows:
+
+```shell
+@inproceedings{chen2024modeling,
+  title={FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning  for Targeted Sentiment Analysis},
+  author={Chen, Wei and zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, fuzhen},
+  booktitle={IJCAI},
+  year={2025}
+}
+```
+
 
 
