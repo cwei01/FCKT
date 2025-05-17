@@ -53,7 +53,7 @@ If the code is used in your research, please star our repo and cite our paper as
 ```shell
 @inproceedings{chen2024modeling,
   title={FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning  for Targeted Sentiment Analysis},
-  author={Chen, Wei and Zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, fuzhen},
+  author={Chen, Wei and Zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, Fuzhen},
   booktitle={IJCAI},
   year={2025}
 }
