@@ -51,7 +51,7 @@ And the result are replaced in out/
 If the code is used in your research, please star our repo and cite our paper as follows:
 
 ```shell
-@inproceedings{chen2024modeling,
+@inproceedings{chen2025fckt,
   title={FCKT: Fine-Grained Cross-Task Knowledge Transfer with Semantic Contrastive Learning  for Targeted Sentiment Analysis},
   author={Chen, Wei and Zhang, Zhao and Yuan, Meng and Xu, Kepeng and Zhuang, Fuzhen},
   booktitle={IJCAI},
